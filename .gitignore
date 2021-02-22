@@ -1,4 +1,5 @@
-.venv_mac
+.venv_mac/
+.outputs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
